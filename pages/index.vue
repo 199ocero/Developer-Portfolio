@@ -20,8 +20,5 @@ export default {
   head: {
     title: 'Home',
   },
-  mounted() {
-    this.$store.commit('SET_TITLE', this.title)
-  },
 }
 </script>
