@@ -13,24 +13,24 @@
       <!-- You can add your social accounts here -->
       <a
         href="https://gitlab.com/ocero-freelance-projects"
-        class="transition ease-in-out hover:text-yellow-300"
+        class="transition ease-in-out hover:text-mac-yellow"
         ><i class="fa-brands fa-github"></i
       ></a>
       <a
         href="https://www.behance.net/freelance-ocero"
-        class="transition ease-in-out hover:text-yellow-300"
+        class="transition ease-in-out hover:text-mac-yellow"
       >
         <i class="fa-brands fa-behance"></i
       ></a>
       <a
         href="https://www.linkedin.com/in/jay-are-ocero-891b63208/"
-        class="transition ease-in-out hover:text-yellow-300"
+        class="transition ease-in-out hover:text-mac-yellow"
       >
         <i class="fa-brands fa-linkedin-in"></i
       ></a>
       <a
         href="https://www.facebook.com/jaocero/"
-        class="transition ease-in-out hover:text-yellow-300"
+        class="transition ease-in-out hover:text-mac-yellow"
       >
         <i class="fa-brands fa-facebook-f"></i
       ></a>
