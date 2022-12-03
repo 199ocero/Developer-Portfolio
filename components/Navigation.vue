@@ -1,7 +1,7 @@
 <template>
   <div>
-    <nav class="bg-iridium py-2 flex flex-row justify-between px-10">
-      <div class="flex flex-row space-x-3 items-center">
+    <nav class="flex flex-row justify-between px-10 py-2 bg-iridium">
+      <div class="flex flex-row items-center space-x-3">
         <div class="w-3 h-3 rounded-full bg-mac-red"></div>
         <div class="w-3 h-3 rounded-full bg-mac-yellow"></div>
         <div class="w-3 h-3 rounded-full bg-mac-green"></div>
@@ -9,10 +9,10 @@
 
       <!-- Change it the title of your website -->
       <div v-switch="$nuxt.$route.name">
-        <p class="text-light-gray text-base" v-case="'index'">
+        <p class="text-base text-light-gray" v-case="'index'">
           Home - Developer Portfolio
         </p>
-        <p class="text-light-gray text-base" v-case="'about'">
+        <p class="text-base text-light-gray" v-case="'about'">
           About - Developer Portfolio
         </p>
       </div>
@@ -44,7 +44,7 @@
       </div>
     </nav>
     <div class="flex bg-baltic-sea">
-      <div class="flex space-x-3 items-center py-3 bg-dark-gray px-10">
+      <div class="flex items-center px-10 py-3 space-x-3 bg-dark-gray">
         <img src="~assets/icons/vue.svg" alt="Vue icon" class="w-5 h-auto" />
         <p>index.vue</p>
       </div>

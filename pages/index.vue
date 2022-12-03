@@ -1,8 +1,8 @@
 <template>
-  <div class="px-10 space-y-8 mx-auto text-center max-w-4xl">
+  <div class="max-w-4xl px-10 mx-auto space-y-8 text-center">
     <p class="text-light-gray">Hi 👋 , my name is</p>
     <p class="text-4xl font-bold">Jay-Are Ocero</p>
-    <p class="text-light-gray font-semibold text-lg">
+    <p class="text-lg font-semibold text-light-gray">
       Freelance Full Stack Developer and UI/UX Designer
     </p>
     <p class="text-light-gray">
@@ -19,6 +19,9 @@ export default {
   name: 'IndexPage',
   head: {
     title: 'Home',
+  },
+  mounted() {
+    this.$store.commit('SET_TITLE', this.title)
   },
 }
 </script>
