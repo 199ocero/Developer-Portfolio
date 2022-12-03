@@ -10,6 +10,7 @@
       <div class="w-3 h-3 rounded-full bg-mac-red"></div>
       <div class="w-3 h-3 rounded-full bg-mac-yellow"></div>
       <div class="w-3 h-3 rounded-full bg-mac-green"></div>
+      <i class="fa-solid fa-house"></i>
     </div>
   </nav>
 </template>
