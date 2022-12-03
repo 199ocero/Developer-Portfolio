@@ -1,6 +1,8 @@
 <template>
-  <div class="px-10">
-    <h1 class="text-3xl font-bold underline">Hello world!</h1>
+  <div class="flex bg-baltic-sea">
+    <div class="py-3 bg-dark-gray px-10">
+      <p class="text-mac-yellow">index.vue</p>
+    </div>
   </div>
 </template>
 
