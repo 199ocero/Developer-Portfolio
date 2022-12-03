@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-iridium py-2 flex flex-row justify-between px-10">
+  <nav class="bg-iridium py-2 flex flex-row justify-between pl-6 pr-10">
     <div class="flex flex-row space-x-3 items-center">
       <div class="w-3 h-3 rounded-full bg-mac-red"></div>
       <div class="w-3 h-3 rounded-full bg-mac-yellow"></div>
