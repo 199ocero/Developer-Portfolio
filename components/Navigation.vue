@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-iridium py-2 flex flex-row justify-between pl-6 pr-10">
+  <nav class="bg-iridium py-2 flex flex-row justify-between px-10">
     <div class="flex flex-row space-x-3 items-center">
       <div class="w-3 h-3 rounded-full bg-mac-red"></div>
       <div class="w-3 h-3 rounded-full bg-mac-yellow"></div>
@@ -7,7 +7,7 @@
     </div>
 
     <!-- Change it the title of your website -->
-    <p class="text-light-gray text-lg">Developer Portfolio</p>
+    <p class="text-light-gray text-base">Developer Portfolio</p>
 
     <div class="flex flex-row space-x-5 text-light-gray">
       <!-- You can add your social accounts here -->
