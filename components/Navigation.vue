@@ -7,9 +7,9 @@
     </div>
 
     <!-- Change it the title of your website -->
-    <p class="text-white text-lg">Developer Portfolio</p>
+    <p class="text-light-gray text-lg">Developer Portfolio</p>
 
-    <div class="flex flex-row space-x-5 text-white">
+    <div class="flex flex-row space-x-5 text-light-gray">
       <!-- You can add your social accounts here -->
       <a
         href="https://gitlab.com/ocero-freelance-projects"

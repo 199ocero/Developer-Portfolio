@@ -14,6 +14,7 @@ module.exports = {
         dune: '#333333',
         'baltic-sea': '#252526',
         'dark-gray': '#1E1E1E',
+        'light-gray': '#CCCCCC',
         'mac-red': '#EC6B5E',
         'mac-yellow': '#F3BF4F',
         'mac-green': '#61C554',
