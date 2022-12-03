@@ -6,11 +6,8 @@
     </div>
 
     <div class="flex flex-1 flex-col justify-between">
-      <div>
-        <Navigation />
-        <Nuxt />
-      </div>
-
+      <Navigation />
+      <Nuxt />
       <Footer />
     </div>
   </div>
