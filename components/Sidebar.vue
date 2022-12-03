@@ -3,7 +3,7 @@
     class="bg-dune w-12 px-10 py-5 items-center flex flex-col justify-between text-2xl text-light-gray"
   >
     <div class="flex flex-col space-y-12 items-center">
-      <i class="fa-solid fa-fire-flame-curved text-yellow-300"></i>
+      <i class="fa-solid fa-fire-flame-curved text-mac-yellow"></i>
       <i class="fa-regular fa-folder text-white"></i>
       <i class="fa-solid fa-magnifying-glass"></i>
       <i class="fa-solid fa-code-branch"></i>
