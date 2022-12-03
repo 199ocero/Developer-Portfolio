@@ -8,8 +8,14 @@
       </div>
 
       <!-- Change it the title of your website -->
-      <p class="text-light-gray text-base">Developer Portfolio</p>
-
+      <div v-switch="$nuxt.$route.name">
+        <p class="text-light-gray text-base" v-case="'index'">
+          Home - Developer Portfolio
+        </p>
+        <p class="text-light-gray text-base" v-case="'about'">
+          About - Developer Portfolio
+        </p>
+      </div>
       <!-- You can add your social accounts here -->
       <div class="flex flex-row space-x-5 text-light-gray">
         <a
@@ -45,3 +51,10 @@
     </div>
   </div>
 </template>
+<script>
+import Vue from 'vue'
+import VSwitch from 'v-switch-case'
+
+Vue.use(VSwitch)
+export default {}
+</script>
