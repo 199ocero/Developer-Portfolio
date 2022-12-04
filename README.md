@@ -12,7 +12,11 @@ The coffee will give me the motivation to work even harder.
 
 I appreciate it. Thank you so much!
 
-[![linkedin](https://storage.ko-fi.com/cdn/kofi2.png?v=3)](https://ko-fi.com/jaocero)
+[![kofi](https://storage.ko-fi.com/cdn/kofi2.png?v=3)](https://ko-fi.com/jaocero)
+
+## Screenshots
+
+![Home Page](/repository/assets/screenshots/Home-Developer-Portfolio.png?raw=true 'Home Page')
 
 ## 💻 Run Locally
 
