@@ -5,6 +5,8 @@
     <p class="mt-2 text-light-gray lg:mt-0">
       Designed and Built by Jay-Are Ocero with 💜
     </p>
-    <Social />
+    <div class="flex lg:hidden">
+      <Social />
+    </div>
   </div>
 </template>
