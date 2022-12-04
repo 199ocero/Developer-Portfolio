@@ -61,9 +61,11 @@
     </nav>
     <div
       class="flex w-full bg-iridium text-light-gray"
-      :class="{
-        'hidden lg:flex': !mobileNavOpen,
-      }"
+      :class="[
+        mobileNavOpen
+          ? 'transition ease-in-out h-max opacity-100'
+          : 'transition ease-in-out h-0 opacity-0',
+      ]"
     >
       <div
         @click.prevent="mobileNavOpen = !mobileNavOpen"
