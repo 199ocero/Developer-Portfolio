@@ -15,6 +15,15 @@
         <p class="text-base text-light-gray" v-case="'about'">
           About - Developer Portfolio
         </p>
+        <p class="text-base text-light-gray" v-case="'projects'">
+          Projects - Developer Portfolio
+        </p>
+        <p class="text-base text-light-gray" v-case="'experience'">
+          Experience - Developer Portfolio
+        </p>
+        <p class="text-base text-light-gray" v-case="'contact'">
+          Contact - Developer Portfolio
+        </p>
       </div>
       <a
         href="#"
@@ -63,7 +72,7 @@
     <div class="flex bg-baltic-sea">
       <div class="flex items-center px-10 py-3 space-x-3 bg-dark-gray">
         <img src="~assets/icons/vue.svg" alt="Vue icon" class="w-5 h-auto" />
-        <p>index.vue</p>
+        <p>{{ $nuxt.$route.name }}.vue</p>
       </div>
     </div>
   </div>
