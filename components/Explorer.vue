@@ -7,7 +7,12 @@
       </div>
       <div class="flex items-center ml-5 space-x-2">
         <i class="fa-solid fa-chevron-right"></i>
-        <i class="text-orange-300 fa-regular fa-folder-open"></i>
+        <i
+          class="text-orange-300 fa-regular fa-folder"
+          :class="{
+            'text-orange-300 fa-regular fa-folder-open': $route.name == 'index',
+          }"
+        ></i>
         <nuxt-link
           to="/"
           class="transition ease-in-out hover:text-orange-300"
@@ -21,13 +26,42 @@
       </div>
       <div class="flex items-center ml-5 space-x-2">
         <i class="fa-solid fa-chevron-right"></i>
-        <i class="text-orange-300 fa-solid fa-folder"></i>
-        <a href="#">about</a>
+        <i
+          class="text-orange-300 fa-regular fa-folder"
+          :class="{
+            'text-orange-300 fa-regular fa-folder-open': $route.name == 'about',
+          }"
+        ></i>
+        <nuxt-link
+          to="/about"
+          class="transition ease-in-out hover:text-orange-300"
+          :class="{
+            'underline decoration-orange-300 text-orange-300':
+              $route.name == 'about',
+          }"
+        >
+          about</nuxt-link
+        >
       </div>
       <div class="flex items-center ml-5 space-x-2">
         <i class="fa-solid fa-chevron-right"></i>
-        <i class="text-orange-300 fa-solid fa-folder"></i>
-        <a href="#">projects</a>
+        <i
+          class="text-orange-300 fa-regular fa-folder"
+          :class="{
+            'text-orange-300 fa-regular fa-folder-open':
+              $route.name == 'projects',
+          }"
+        ></i>
+        <nuxt-link
+          to="/projects"
+          class="transition ease-in-out hover:text-orange-300"
+          :class="{
+            'underline decoration-orange-300 text-orange-300':
+              $route.name == 'projects',
+          }"
+        >
+          projects</nuxt-link
+        >
       </div>
       <div class="flex items-center ml-5 space-x-2">
         <i class="fa-solid fa-chevron-right"></i>
