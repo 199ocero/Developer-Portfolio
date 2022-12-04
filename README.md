@@ -43,7 +43,7 @@ Start the server
 You can find the color theme in `tailwind.config.js` file.
 | Color | Hex |
 | ----------------- | ------------------------------------------------------------------ |
-| iridium | ![#3C3C3C](https://via.placeholder.com/10/3C3C3C?text=+) #3C3C3C |
+| iridium | ![#243B55](https://via.placeholder.com/10/243B55?text=+) #243B55 |
 | dune | ![#333333](https://via.placeholder.com/10/333333?text=+) #333333 |
 | baltic-sea | ![#252526](https://via.placeholder.com/10/252526?text=+) #252526 |
 | dark-gray | ![#1E1E1E](https://via.placeholder.com/10/1E1E1E?text=+) #1E1E1E |
