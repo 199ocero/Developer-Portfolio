@@ -16,7 +16,7 @@ I appreciate it. Thank you so much!
 
 ## Screenshots
 
-![Home Page](/repository/assets/screenshots/Home-Developer-Portfolio.png?raw=true 'Home Page')
+![Home Page](https://github.com/199ocero/Developer-Portfolio/blob/main/static/screenshots/Home-Developer-Portfolio.png)
 
 ## 💻 Run Locally
 
