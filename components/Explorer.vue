@@ -1,15 +1,5 @@
 <template>
-  <div
-    class="items-center px-10 py-5 space-y-12 text-2xl bg-baltic-sea text-light-gray"
-  >
-    <div class="flex items-center justify-between space-x-10">
-      <p class="text-sm uppercase text-light-gray">Explorer</p>
-      <div class="flex space-x-1">
-        <div class="w-1 h-1 rounded-full bg-light-gray"></div>
-        <div class="w-1 h-1 rounded-full bg-light-gray"></div>
-        <div class="w-1 h-1 rounded-full bg-light-gray"></div>
-      </div>
-    </div>
+  <div class="space-y-12">
     <div class="space-y-5 text-sm">
       <div class="flex items-center space-x-2 text-bae">
         <i class="text-sm fa-solid fa-chevron-down"></i>
