@@ -1,6 +1,8 @@
 # Developer Portfolio
 
-Portfolio template that can be use by any developers built from Nuxt.js and Tailwind CSS.
+**Portfolio template that can be use by any developers built from Nuxt.js and Tailwind CSS.**
+
+This portfolio is free of use and I only request is to not change my **Name** in the `footer` section. This means that I only take the credit for who built this free portfolio.
 
 ## ☕ Buy me a coffee
 
@@ -12,7 +14,7 @@ I appreciate it. Thank you so much!
 
 [![linkedin](https://storage.ko-fi.com/cdn/kofi2.png?v=3)](https://ko-fi.com/jaocero)
 
-## Run Locally
+## 💻 Run Locally
 
 Clone the project
 
@@ -38,7 +40,7 @@ Start the server
   npm run dev
 ```
 
-## Color Reference
+## 🎨 Color Reference
 
 You can find the color theme in `tailwind.config.js` file.
 | Color | Hex |
@@ -51,3 +53,25 @@ You can find the color theme in `tailwind.config.js` file.
 | mac-red | ![#EC6B5E](https://placehold.co/15x15/EC6B5E/EC6B5E.png) #EC6B5E |
 | mac-yellow | ![#F3BF4F](https://placehold.co/15x15/F3BF4F/F3BF4F.png) #F3BF4F |
 | mac-green | ![#61C554](https://placehold.co/15x15/61C554/61C554.png) #61C554 |
+
+## ❓ FAQ
+
+#### - How to change color theme?
+
+Go to `tailwind.config.js` and change the hex color.
+
+#### - Where to edit content for different pages?
+
+You can find the pages in `pages` folder. You are free to edit and just make sure you have a background knowledge of Tailwind CSS.
+
+#### - Where to edit social icons and links?
+
+There are two components you need to change. You can go to `components` folder and find `Social.vue` and `Sidebar.vue`. When you change something in `Social.vue` you need also to change it in `Sidebar.vue` and vice versa.
+
+#### - Where to edit the css?
+
+Go to `assets` folder and you can find `css/main.css` file there.
+
+#### - Where to find icons?
+
+This project is already installed with the icons from [FontAwesone](https://fontawesome.com/search) website. Make sure that the icons you use are the free ones.
