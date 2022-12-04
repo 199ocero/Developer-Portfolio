@@ -43,12 +43,11 @@ Start the server
 You can find the color theme in `tailwind.config.js` file.
 | Color | Hex |
 | ----------------- | ------------------------------------------------------------------ |
-| iridium | ![#243B55](https://via.placeholder.com/10/243B55?text=+) #243B55 |
+| iridium | ![#3C3C3C](https://via.placeholder.com/150/0000FF/808080) #3C3C3C |
 | dune | ![#333333](https://via.placeholder.com/10/333333?text=+) #333333 |
 | baltic-sea | ![#252526](https://via.placeholder.com/10/252526?text=+) #252526 |
 | dark-gray | ![#1E1E1E](https://via.placeholder.com/10/1E1E1E?text=+) #1E1E1E |
 | light-gray | ![#CCCCCC](https://via.placeholder.com/10/CCCCCC?text=+) #CCCCCC |
 | mac-red | ![#EC6B5E](https://via.placeholder.com/10/EC6B5E?text=+) #EC6B5E |
 | mac-yellow | ![#F3BF4F](https://via.placeholder.com/10/F3BF4F?text=+) #F3BF4F |
-| mac-green | ![#61C554](https://via.placeholder.com/10/61C554) #61C554 |
-| mac-green | ![#61C554](https://storage.ko-fi.com/cdn/kofi2.png?v=3) #61C554 |
+| mac-green | ![#61C554](https://via.placeholder.com/10/61C554?text=+) #61C554 |
