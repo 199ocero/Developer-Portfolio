@@ -50,4 +50,4 @@ You can find the color theme in `tailwind.config.js` file.
 | light-gray | #CCCCCC |
 | mac-red | #EC6B5E |
 | mac-yellow | #F3BF4F |
-| mac-green | #61C554 |
+| mac-green | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15` |
