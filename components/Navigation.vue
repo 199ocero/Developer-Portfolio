@@ -53,10 +53,11 @@
           }"
         ></span>
       </a>
-      <!-- Social Icons -->
-      <div class="hidden lg:flex">
-        <Social />
-      </div>
+      <a
+        href="mailto: freelanceocero@gmail.com"
+        class="hidden transition ease-in-out lg:block text-light-gray hover:text-mac-yellow"
+        >freelanceocero@gmail.com</a
+      >
     </nav>
     <div
       class="flex w-full bg-iridium text-light-gray"
