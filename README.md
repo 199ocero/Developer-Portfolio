@@ -1,6 +1,10 @@
+
 # Developer Portfolio
 
 Portfolio template that can be use by any developers built from Nuxt.js and Tailwind CSS.
+
+
+
 
 ## ☕ Buy me a coffee
 
@@ -11,7 +15,6 @@ The coffee will give me the motivation to work even harder.
 I appreciate it. Thank you so much!
 
 [![linkedin](https://storage.ko-fi.com/cdn/kofi2.png?v=3)](https://ko-fi.com/jaocero)
-
 ## Run Locally
 
 Clone the project
@@ -38,10 +41,11 @@ Start the server
   npm run dev
 ```
 
+
 ## Color Reference
 
 You can find the color theme in `tailwind.config.js` file.
-| Color | Hex |
+| Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | iridium | ![#3C3C3C](https://via.placeholder.com/10/3C3C3C?text=+) #3C3C3C |
 | dune | ![#333333](https://via.placeholder.com/10/333333?text=+) #333333 |
