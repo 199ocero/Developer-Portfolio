@@ -1,6 +1,6 @@
 # Developer Portfolio
 
-**Portfolio template that can be use by any developers built from Nuxt.js and Tailwind CSS.**
+**Portfolio template inspired from VSCode UI that can be use by any developers built from Nuxt.js and Tailwind CSS.**
 
 This portfolio is free of use and I only request is to not change my **Name** in the `footer` section. This means that I only take the credit for who built this free portfolio.
 
@@ -16,7 +16,7 @@ I appreciate it. Thank you so much!
 
 ## Screenshots
 
-![Home Page](https://github.com/199ocero/Developer-Portfolio/blob/main/static/screenshots/Home-Developer-Portfolio.png)
+![Home Page](https://github.com/199ocero/Developer-Portfolio/blob/main/static/screenshots/Home-Developer-Portfolio.png?raw=true)
 
 ## 💻 Run Locally
 
