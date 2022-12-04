@@ -1,10 +1,6 @@
-
 # Developer Portfolio
 
 Portfolio template that can be use by any developers built from Nuxt.js and Tailwind CSS.
-
-
-
 
 ## ☕ Buy me a coffee
 
@@ -15,6 +11,7 @@ The coffee will give me the motivation to work even harder.
 I appreciate it. Thank you so much!
 
 [![linkedin](https://storage.ko-fi.com/cdn/kofi2.png?v=3)](https://ko-fi.com/jaocero)
+
 ## Run Locally
 
 Clone the project
@@ -41,11 +38,10 @@ Start the server
   npm run dev
 ```
 
-
 ## Color Reference
 
 You can find the color theme in `tailwind.config.js` file.
-| Color             | Hex                                                                |
+| Color | Hex |
 | ----------------- | ------------------------------------------------------------------ |
 | iridium | ![#3C3C3C](https://via.placeholder.com/10/3C3C3C?text=+) #3C3C3C |
 | dune | ![#333333](https://via.placeholder.com/10/333333?text=+) #333333 |
@@ -54,4 +50,5 @@ You can find the color theme in `tailwind.config.js` file.
 | light-gray | ![#CCCCCC](https://via.placeholder.com/10/CCCCCC?text=+) #CCCCCC |
 | mac-red | ![#EC6B5E](https://via.placeholder.com/10/EC6B5E?text=+) #EC6B5E |
 | mac-yellow | ![#F3BF4F](https://via.placeholder.com/10/F3BF4F?text=+) #F3BF4F |
-| mac-green | ![#61C554](https://via.placeholder.com/10/61C554?text=+) #61C554 |
+| mac-green | ![#61C554](https://via.placeholder.com/10/61C554) #61C554 |
+| mac-green | ![#61C554](https://storage.ko-fi.com/cdn/kofi2.png?v=3) #61C554 |
