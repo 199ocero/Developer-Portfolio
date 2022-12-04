@@ -1,6 +1,8 @@
 <template>
   <div>
-    <nav class="flex flex-row justify-between px-10 py-2 bg-iridium">
+    <nav
+      class="flex flex-row items-center justify-between px-10 py-2 bg-iridium"
+    >
       <div class="flex-row items-center hidden space-x-3 sm:flex">
         <div class="w-3 h-3 rounded-full bg-mac-red"></div>
         <div class="w-3 h-3 rounded-full bg-mac-yellow"></div>
